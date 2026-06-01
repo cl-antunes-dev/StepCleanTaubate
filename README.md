@@ -32,14 +32,18 @@ A página foi construída com uma identidade visual escura, elementos em azul e 
 ```text
 StepCleanTaubate/
 ├── index.html
-├── style.css
-├── script.js
-└── img/
-    ├── logo-horizontal-branca.png
-    ├── logo-horizontal-preta.png
-    ├── logo-icon.png
-    ├── tenis-sujo.png
-    └── tenis-limpo.png
+ ├── franqueado.html
+ ├── style.css
+ ├── script.js
+ ├── three-franquia.js
+ └── img/
+         ├── logo-horizontal-branca.png
+         ├── logo-horizontal-preta.png
+         ├── logo-icon.png
+         ├── tenis-sujo.png
+         ├── tenis-limpo.png
+         ├── tenis-corrida-sujo.png
+         └── tenis-corrida-limpo.png
 ```
 
 ## Objetivo
