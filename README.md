@@ -48,6 +48,8 @@ StepCleanTaubate/
 
 ## Objetivo
 
+----
+
 Criar uma landing page comercial, funcional e visualmente competitiva para apresentação dos serviços da StepClean Taubaté e captação de clientes por meio do WhatsApp.
 
 ## Autor
